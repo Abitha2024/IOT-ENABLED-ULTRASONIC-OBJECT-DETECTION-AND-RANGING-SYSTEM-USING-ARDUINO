@@ -1,0 +1,2 @@
+# IOT-ENABLED-ULTRASONIC-OBJECT-DETECTION-AND-RANGING-SYSTEM-USING-ARDUINO
+The growing demand for intelligent monitoring and automation systems has  accelerated the development of an IoT-Enabled Ultrasonic Object Detection and Ranging  System designed to provide accurate distance measurement, reliable obstacle detection, and  real-time environmental sensing. This system utilizes an Arduino microcontroller.
